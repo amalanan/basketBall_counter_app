@@ -1,3 +1,4 @@
+// Amal Yasser Anan 
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,10 +13,6 @@ class BasketBallCounterApp extends StatefulWidget {
 class _BasketBallCounterAppState extends State<BasketBallCounterApp> {
   int teamAPoints = 0;
   int teamBPoints = 0;
-
-  void addOnePoint() {
-    print('amal');
-  }
 
   @override
   Widget build(BuildContext context) {
