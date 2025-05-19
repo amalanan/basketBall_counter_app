@@ -73,3 +73,8 @@ This project is open source and available under the [MIT License](LICENSE).
 - Score history
 - Game timer functionality
 - Different color schemes
+  
+---
+For questions or suggestions, please contact: Amal Anan
+Flutter Developer
+Email: amalananana@gmail.com
